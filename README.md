@@ -1,4 +1,4 @@
-Based on the Atari 2600 game Freeway in 1981 and with the help of Alura, I decided to make this game for better handling of the Visual Studio Code software.
+Based on the 1981 Atari 2600 game Freeway, I decided to make this game to test my knowledge of javascript and better handling of the Visual Studio Code software.
 
 Note: Control the gecko using the keys: W and S.
 
